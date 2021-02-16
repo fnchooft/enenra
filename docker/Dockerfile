@@ -1,3 +1,3 @@
-FROM erlang:19
+FROM erlang:23
 
 WORKDIR /src
